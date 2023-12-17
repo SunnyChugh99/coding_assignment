@@ -1,6 +1,0 @@
-setup.py
-coding_assignment.egg-info/PKG-INFO
-coding_assignment.egg-info/SOURCES.txt
-coding_assignment.egg-info/dependency_links.txt
-coding_assignment.egg-info/requires.txt
-coding_assignment.egg-info/top_level.txt
